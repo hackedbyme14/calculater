@@ -1,0 +1,6 @@
+X=input(type a number)
+X=int
+Y=input(type next number)
+Y=int
+Sum=x+y
+Print("sum of these numbers"'Sum)
